@@ -20,6 +20,6 @@ function onKeyDownHandler(e) {
     i = 0;
   }
 }
-body.addEventListener('keydown', onKeyDownHandler,true);
+body.addEvstener('keydown', onKeyDownHandler,true);
 }
 init()
